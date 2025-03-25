@@ -1,7 +1,7 @@
 # Boilerplate Foundry + COTI Network
 
 <div align="center"><strong>Start your next Solidity project with Foundry in seconds</strong></div>
-<p>Base in Wonderland Boilerplate</p>
+<div align="center"><p>Base in Wonderland Boilerplate</p></div>
 <div align="center">A highly scalable foundation focused on DX and best practices</div>
 
 <br />
@@ -10,7 +10,7 @@
 
 <dl>
   <dt>Sample contracts</dt>
-  <dd>Basic Greeter contract with an external interface.</dd>
+  <dd>Basic Account Onboard contract with an external interface.</dd>
 
   <dt>Foundry setup</dt>
   <dd>Foundry configuration with multiple custom profiles and remappings.</dd>
