@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.23;
+pragma solidity ^0.8.19;
 
 import {IAccountOnboard} from '../interfaces/IAccountOnboard.sol';
 import {MpcCore} from '@coti-io/coti-contracts/contracts/utils/mpc/MpcCore.sol';
